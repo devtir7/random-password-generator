@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 62px;
+    right: 64px;
+}
+
+/* heading */
+
+h1 {
+    color: white;
+    margin-bottom: -0.7ch;
+}
+
+p {
+    color: white;
+}
+
+#rndm-text {
+    display: block;
+    color: #4ADF86;
+}
+
+/* button */
+
+#genPass {
+    margin-top: 15px;
+    color: white;
+    background: #10B981;
+    border: none;
+    border-radius: 6px;
+    width: 191px;
+    height: 42px;
+    position: absolute;
+    font-weight: bold;
+}
+
+.solid-line {
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    top: 200px;
+    border: 1px solid #2F3E53;
+}
+
+.genResult {
+    display: inline-block;
+    background: #273549;
+    position: relative;
+    width: 211px;
+    height: 39px;
+    top: 100px;
+    border: none;
+    border-radius: 6px;
+    color: #55F991;
+}
